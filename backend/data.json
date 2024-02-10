@@ -1,7 +1,7 @@
 {
   "devs": [
     {
-      "name": "Holga Kilgore",
+      "name": "Enock Ambale",
       "links": {
         "github": "https://github.com/johndoe",
         "linkedin": "https://www.linkedin.com/in/johndoe",
@@ -11,34 +11,34 @@
       "id": 1
     },
     {
-      "name": "Ebenezer Akhonya",
+      "name": "Emmanuel Ambundo",
       "links": {
         "github": "https://github.com/itsfoss0",
         "linkedin": "https://www.linkedin.com/in/ebenezer-akhonya",
         "twitter": "https://twitter.com/its_foss"
       },
       "stack": ["Python", "Django", "Kubernetes", "AWS", "Docker"],
-      "id": 2
+      "id": 6
     },
     {
-      "name": "Alice Johnson",
+      "name": "Collins Njogu",
       "links": {
-        "github": "https://github.com/alicejohnson",
+        "github": "https://github.com/Emmanuel-Ambundo",
         "linkedin": "https://www.linkedin.com/in/alicejohnson",
         "twitter": "https://twitter.com/alicejohnson"
       },
       "stack": ["Java", "Spring Boot", "MySQL", "AWS"],
-      "id": 322
+      "id": 515
     },
     {
-      "name": "Sherlock Holmes",
+      "name": "Erick Fred",
       "links": {
-        "github": "https://github.com/sholmes",
+        "github": "https://github.com/Emmanuel-Ambundo",
         "linkedin": "https://www.linkedin.com/in/shlerlock",
         "twitter": "https://twitter.com/johndoe"
       },
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
-      "id": 21
+      "id": 17
     }
   ]
 }
